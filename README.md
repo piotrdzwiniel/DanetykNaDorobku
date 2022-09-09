@@ -21,9 +21,9 @@ Dzięki takiemu rozwiązaniu możecie w łatwy sposób przeszukiwać opublikowan
 * polubcie moją stronę na Facebooku (jak większość dejta sajentistów, przepraszam, danetyków, mam mało kolegów) 
 * zacznijcie mnie śledzić na Instagramie (nie zgłoszę tego na Policję, bez obaw) 
 * a także możecie udostępniać moje materiały, gdzie się tylko da (zasięgi, zasięgi)
-* acha, no i dawajcie znać, o czym chcielibyście poczytać — możecie to zrobić [tutaj](https://github.com/piotrdzwiniel/DanetykNaDorobku/issues/1)
+* acha, no i dawajcie znać, o czym chcielibyście poczytać — możecie to zrobić [tutaj](https://github.com/piotrdzwiniel/DanetykNaDorobku/issues/1).
 
-Jedziemy z tematem!
+No to co? Jedziemy z tematem!
 
 
 
