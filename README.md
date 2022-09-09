@@ -14,6 +14,8 @@ Nazwy artykułów oraz poradników są tworzone na podstawie schematu `[rrMMdd][
 
 Dzięki takiemu rozwiązaniu możecie w łatwy sposób przeszukiwać opublikowane w repozytorium materiały w zgodzie z Waszymi zainteresowaniami. Wystarczy, że skorzystacie z [wyszukiwarki plików](https://github.com/piotrdzwiniel/DanetykNaDorobku/find/main) (opcja *Go to file*), w której wpisujecie interesujące Was frazy. I voilà!
 
+PS Każdy artykuł dostępny w repozytorium jest dostępny w trzech formatach, tj. *.md (markdown), *.html (stronka internetowa), a także *.pdf (wiadomo), tak więc możecie otwierać, pobierać i czytać materiały gdziekolwiek jesteście i na czymkolwiek pracujecie. Fajnie? No pewnie, że fajnie :)
+
 ### Jeżeli podoba Wam się to, co robię...
 
 ...to:
