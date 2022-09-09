@@ -1,5 +1,7 @@
 ![Baner bloga Danetyk na Dorobku](/inne/github_banner.png "Danetyk na Dorobku")
 
+# Słowem wstępu
+
 Cześć! Tworzę materiały informacyjne i szkoleniowe związane z danetyką (ang. *data science*) i tematami pokrewnymi w formie czegoś na wzór bloga technologicznego. Istnieję obecnie w trzech głównych wymiarach medialnych, które różnią się zamieszczanymi tam treściami. Zapraszam na każdy z nich!
 
 [GitHub](https://github.com/piotrdzwiniel/DanetykNaDorobku): Artykuły, poradniki, szkolenia, projekty.  
