@@ -1,4 +1,4 @@
-![Baner bloga Danetyk na Dorobku](/inne/github_banner.png "Danetyk na Dorobku")
+![Baner bloga Danetyk na Dorobku](/z_chowek_na_miotły/github_banner.png "Danetyk na Dorobku")
 
 # Słowem wstępu
 
