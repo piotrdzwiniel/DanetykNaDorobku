@@ -8,13 +8,16 @@ Cześć! Tworzę materiały informacyjne i szkoleniowe związane z danetyką (an
 [Facebook](https://www.facebook.com/profile.php?id=100084431709843): Informacje ze świata, informacje z działalności niniejszego bloga.  
 [Instagram](https://www.instagram.com/danetyknadorobku/): Krótkie ciekawostki, tipy oraz quizy.
 
+### Najnowsze artykuły
+* [Czym jest danetyka?](https://bit.ly/3TWMbT7)
+
 ### Jak znaleźć interesujący nas artykuł na GitHub'ie?
 
 Nazwy artykułów oraz poradników są tworzone na podstawie schematu `[rrMMdd][hashtagi]* Tytuł`, gdzie między pierwszą parą nawiasów zawarta jest data publikacji materiału, między wszystkimi kolejnymi parami nawiasów zawarte są hashtagi definiujące jego tematykę, a po nawiasach jest jego tytuł. Tak więc przykładowa nazwa `[220909][analiza][python][r] Najpopularniejsze języki programowania wykorzystywane w danetyce w 2022 roku` opisuje materiał, który został opublikowany 9 września 2022 roku i porusza zagadnienia związane z analizą oraz językami programowania Python i R.
 
 Dzięki takiemu rozwiązaniu możecie w łatwy sposób przeszukiwać opublikowane w repozytorium materiały w zgodzie z Waszymi zainteresowaniami. Wystarczy, że skorzystacie z [wyszukiwarki plików](https://github.com/piotrdzwiniel/DanetykNaDorobku/find/main) (opcja *Go to file*), w której wpisujecie interesujące Was frazy. I voilà!
 
-PS Każdy artykuł dostępny w repozytorium jest dostępny w trzech formatach, tj. *.md (markdown), *.html (stronka internetowa), a także *.pdf (wiadomo), tak więc możecie otwierać, pobierać i czytać materiały gdziekolwiek jesteście i na czymkolwiek pracujecie. Fajnie? No pewnie, że fajnie :)
+PS Każdy artykuł dostępny w repozytorium jest dostępny w dwóch formatach, tj. *.md (markdown) oraz *.pdf (wiadomo), tak więc możecie otwierać, pobierać i czytać materiały gdziekolwiek jesteście i na czymkolwiek pracujecie. Fajnie? No fajnie :)
 
 ### Jeżeli podoba Wam się to, co robię...
 
