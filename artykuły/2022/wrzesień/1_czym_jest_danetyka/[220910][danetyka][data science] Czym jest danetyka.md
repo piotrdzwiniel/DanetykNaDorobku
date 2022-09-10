@@ -1,7 +1,7 @@
 ![Baner artykułu.](materiały/article_banner.png "Czym jest danetyka?")
 ###
 [<img src="materiały/download_pdf.png">](https://bit.ly/3L0RCMW)
-[<img src="materiały/facebook_share.png" style="padding-left: 20px;">](https://bit.ly/3qqT8hO)
+[<img src="materiały/facebook_share.png">](https://bit.ly/3qqT8hO)
 
 ## Na początek odrobina historii
 ### Ach, gdyby nie te komputry...
