@@ -1,4 +1,5 @@
 ![Baner artykułu.](materiały/article_banner.png "Czym jest danetyka?")
+[Pobierz artykuł w wersji PDF](https://bit.ly/3L0RCMW)
 ## Na początek odrobina historii
 ### Ach, gdyby nie te komputry...
 
