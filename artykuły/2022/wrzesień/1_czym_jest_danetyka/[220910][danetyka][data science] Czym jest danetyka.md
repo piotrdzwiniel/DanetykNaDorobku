@@ -1,5 +1,8 @@
 ![Baner artykułu.](materiały/article_banner.png "Czym jest danetyka?")
-[Pobierz artykuł w wersji PDF](https://bit.ly/3L0RCMW)
+###
+[<img src="materiały/download_pdf.png">](https://bit.ly/3L0RCMW)
+[<img src="materiały/facebook_share.png" style="padding-left: 20px;">](https://bit.ly/3qqT8hO)
+
 ## Na początek odrobina historii
 ### Ach, gdyby nie te komputry...
 
@@ -95,7 +98,7 @@ Zaczęto też coraz częściej korzystać z nowego określenia _Data Mining_, na
 * Rok 2012 - _Data Scientist_ zostaje okrzyknięte najseksowniejszym stanowiskiem pracy na świecie przez Harvard [6]. 
 * Rok 2013 - Według _IBM_ 90% wszystkich danych na świecie zostało wytworzonych w ciągu ostatnich dwóch lat.
 * Rok 2014 - _Data Scientist_ zostaje okrzyknięte najseksowniejszym stanowiskiem pracy na świecie przez magazyn _Forbes_ [7]. 
-* Rok 2015 - Dzięki wykorzystaniu uczeniu głębokiemu (jedna z form uczenia maszynowego) efektywność systemu rozpoznawania mowy firmy Google skacze o 49%. Google zwiększyło również wykorzystanie uczenia maszynowego z dotychczasowego sporadycznego, do ponad 2 700 wewnętrznych projektów.
+* Rok 2015 - Dzięki wykorzystaniu uczenia głębokiego (jednej z form uczenia maszynowego) efektywność systemu rozpoznawania mowy firmy Google skacze o 49%. Google zwiększyło również wykorzystanie uczenia maszynowego z dotychczasowego sporadycznego, do ponad 2 700 wewnętrznych projektów.
 * Rok 2016 - Sztuczna inteligencja o nazwie _AlphaGo_ stworzona przez firmę Deep Mind należącą do firmy _Google_ pokonuje mistrza świata w grze Go.
 * Rok 2021 - sztuczna inteligencja o nazwie _AlphaFold_ przewiduje struktury białek nieporównywalnie efektywniej niż dotychczasowe metody komputerowe nadzorowane przez człowieka.
 * Rok 2022 - Jason Allen wykorzystując obrazy wygenerowane przez sztuczną inteligencję _Midjourney_, wygrywa konkurs artystyczny, pokonując artystów tworzących swoje prace ręcznie [8].
@@ -109,9 +112,11 @@ To prawda, świat oszalał na punkcie danych i ich przetwarzania. Świat oszala�
 
 Świat zbierania, przechowywania, przetwarzania, analizy i modelowania danych, choć wyjątkowo dynamicznie się rozwijający, to zdążył już delikatnie "ochłonąć" dzięki czemu większość z nas nie będzie miała obecnie problemu z odnalezieniem się w jego meandrach. Dla przykładu dość wyraźnie zarysowały się trzy główne gałęzie związane ze światem danych (które oczywiście "po złośliwości" moglibyśmy i tak dzielić w nieskończoność). Dotychczasowe, samotne _Data Science_ i gdzieś tam wałęsające się po kątach _Data Mining_ możemy dzisiaj podzielić na:
 
-- _Data Engineering_ — Czyli budowanie i zarządzanie infrastrukturą danych.
-- _Data Analysis_ — Czyli tradycyjna analiza relatywnie niedużych zestawów danych w celu weryfikowania postawionych hipotez (wnioskowanie).
-- _Data Science_ — Czyli eksploracyjna analiza relatywnie dużych zestawów danych w celu szukania i stawiania hipotez (przewidywanie).
+- _Data Engineering_ — Więcej zarządzania danymi.
+- _Data Analysis_ — Więcej wnioskowania na podstawie danych.
+- _Data Science_ — Więcej prognozowania na podstawie danych.
+
+Oczywiście należy zdawać sobie sprawę z daleko posuniętego uproszczenia przy tworzeniu podziału tego rodzaju i możliwości przeplatania się obowiązków danetyków zajmujących się _Data Engineering_, _Analysis_ oraz _Science_ nawet w ramach jednej firmy. Nie należy jednak obrażać się na taki stan rzecz głównie z uwagi na ciągle rozwijającą się dziedzinę pracy z danymi. Tukey pisząc w 1962 roku o praktycznym zastosowaniu matematyki i statystyki w analizie danych przekonywał, że statystyka to tak naprawdę matematyka i że należy postawić wyraźną granicę między statystyką a analizą danych. Naur pisząc w 1974 roku o _Data Science_ uważał, że termin ten powinien zastąpić termin [_Computer Science_](https://en.wikipedia.org/wiki/Computer_science) (taki odpowiednik polskiej informatyki, ale obejmujący więcej tematów), a samo _Data Science_, to nie analiza danych, ale raczej nauka o metodach analizy danych. Dzisiaj natomiast _Data Engineer_ ogarnia infrastruktury bazodanowe i przetwarza dane, _Data Analyst_ przetwarza dane i je analizuje, a _Data Scientist_ analizuje dane i je modeluje. A w zależności od firmy pewnie spotkamy czasem totalne odwrócenie ról, nazw stanowisk i wykorzystywanych technologii. Zmierzam do tego, aby nie przywiązywać wagi do terminów (bo te wciąż ewoluują), ale do tego, co chcemy z danymi robić — zbierać, przechowywać, przetwarzać, analizować, modelować? Niech aktualnie przyjęte etykiety opisujące zbiory wymienionych procesów będą ostatnią rzeczą, o której będziecie myśleć.
 
 ## Czym jest danetyka?
 
